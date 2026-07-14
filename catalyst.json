@@ -1,0 +1,11 @@
+{
+  "project_id": "43319000000025005",
+  "project_name": "aifirewallsaas",
+  "platform_version": "2",
+  "client": [
+    {
+      "absolute_path": "client",
+      "folder_name": "client"
+    }
+  ]
+}

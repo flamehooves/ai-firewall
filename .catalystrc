@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "43319000000025005",
+      "name": "aifirewallsaas",
+      "domain": {
+        "id": "50043980172",
+        "name": "aifirewallsaas-60077509593.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60077509593",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
